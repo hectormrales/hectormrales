@@ -47,15 +47,6 @@ Plataforma web con Spring Boot para gestión de usuarios y búsqueda unificada d
 ### Notario Criptográfico
 Sistema de certificación digital en Java con RSA, SHA-256 y firma digital.
 
-## Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hectormrales&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectormrales&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ## Contacto
 
